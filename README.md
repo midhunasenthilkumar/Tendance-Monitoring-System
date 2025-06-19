@@ -1,2 +1,2 @@
 # Tendance-Monitoring-System
-  A computerized tool called an **Tendance monitoring system** was created to automate and simplify the process of tracking and managing student attendance. It provides a dependable means for educational institutions to monitor student involvement, guarantee data precision, and easily produce informative attendance reports.
+  An online tool called ****Tendance Monitoring System** **was created to streamline and automate the tracking of student attendance. This website eliminates the need for physical registers by enabling institutions to manage attendance online, track student presence in real-time, and produce reliable results.
